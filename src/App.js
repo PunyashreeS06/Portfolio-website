@@ -260,8 +260,8 @@ const Portfolio = () => {
             <button 
               onClick={() => {
                 const link = document.createElement('a');
-                link.href = '/resume/PunyashreeS Resume_20.pdf';
-                link.download = 'PunyashreeS Resume_20.pdf';
+                link.href = '/resume/Punyashree_S_Resume.pdf';
+                link.download = 'Punyashree_S_Resume.pdf';
                 document.body.appendChild(link);
                 link.click();
                 document.body.removeChild(link);
