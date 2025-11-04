@@ -161,7 +161,7 @@ const Portfolio = () => {
       title: 'Prompt Engineering',
       issuer: 'Certification Course',
       year: '2025',
-      description: 'Learn prompt engineering best practices for application development, Discover new ways to use LLMs, gain hands-on practice writing and iterating on prompts using the OpenAI API and Llama 2 & 3 models. Interact with Meta Llama 2 Chat, Code Llama, and Llama Guard models. See how you can build safe, responsible AI applications using the Llama Guard model.'
+      description: 'Expertise in crafting effective prompts for AI systems and optimizing interactions with large language models. Hands-on experience with best practices and practical application development for real-world use cases.'
     },
     {
       title: 'Java Programming',
